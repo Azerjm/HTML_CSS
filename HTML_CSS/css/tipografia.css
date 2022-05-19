@@ -1,0 +1,16 @@
+h1{
+	color: #ff6600;
+	letter-spacing: 2px;
+	text-transform: capitalize;
+	width: 650px;
+	text-shadow: 1px 1px black;
+font-family: 'Indie Flower', cursive;
+
+}
+p{
+	width: 650px;
+	font-size: 18px;
+	
+	font-family: verdana,arial,sans-serif;
+	
+}

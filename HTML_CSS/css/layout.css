@@ -1,0 +1,53 @@
+body{
+	font-family: helvetica, sans-serif;
+}
+a:link, a:visited{
+	color: #00BFFF;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+#wrap{
+	width: 960px;
+	margin: auto;
+	background: #836fff;
+
+}
+header{
+	background: #;
+}
+header h1{
+	padding: 10px 20px;
+}
+header nav ul{
+	list-style: none;
+	padding-left: 20px;	
+}
+header nav ul li{
+	display: inline;
+	margin-right: 20px;
+	font-family: sans-serif;
+}
+header nav ul li a{
+	font-size: 14px;
+}
+#content{
+	float: left;
+	width: 660px;
+}
+#sidebar{
+	float: right;
+	width: 300px;
+}
+#sidebar ul{
+	list-style: none;
+	margin-left: 40px;
+}
+#sidebar ul li{
+	font-size: 20px;
+	padding-bottom: 15px;
+}
+footer{
+	clear: both;
+}
